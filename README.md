@@ -52,7 +52,6 @@ The dataset typically includes:
    
 ## Output
 
-<img width="345" height="236" alt="image" src="https://github.com/user-attachments/assets/35dd0ad7-ac68-4007-b6d8-a686859cf2e7" />
 
 <img width="173" height="118" alt="image" src="https://github.com/user-attachments/assets/cbdc0e67-8f65-4b30-a7dc-6145ad9f6f9e" />
 
